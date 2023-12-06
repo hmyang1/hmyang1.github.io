@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hunmin
 middle_name: 
 last_name: Yang
-email: 
+email: hmyang@kaist.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -28,12 +28,12 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
+# repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+# repo_trophies:
+#   enabled: true
+#   theme_light: flat    # https://github.com/ryo-ma/github-profile-trophy
+#   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -67,13 +67,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: hmyang1 # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: hunminyang # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Ze2iaMEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -104,7 +104,6 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -121,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -129,23 +128,23 @@ permalink: /blog/:year/:title/
 pagination:
   enabled: true
 
-related_blog_posts:
-  enabled: true
-  max_related: 5
+# related_blog_posts:
+#   enabled: true
+#   max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
-giscus:
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
-  category: Comments             # name of the category under which discussions will be created
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+# giscus:
+#   repo:                          # <your-github-user-name>/<your-github-repo-name>
+#   category: Comments             # name of the category under which discussions will be created
+#   mapping: title                 # identify discussions by post title
+#   strict: 1                      # use strict identification mode
+#   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
+#   input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+#   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+#   emit_metadata: 0
+#   lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
@@ -168,19 +167,50 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+    limit: 5
+  education:
+    defaults:
+      layout: post
+    output: true
+    permalink: /education/:path/
+    limit: 5
   projects:
     output: true
     permalink: /projects/:path/
+    limit: 5
+  services:
+    defaults:
+      layout: post
+    output: true
+    permalink: /services/:path/
+    limit: 5
+  honors:
+    defaults:
+      layout: post
+    output: true
+    permalink: /honors/:path/
+    limit: 5
 
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /news/:path/
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
+
+# announcements:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
+
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -189,6 +219,8 @@ latest_posts:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -236,8 +268,10 @@ defaults:
     values:
       sitemap: false
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
+
+github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -263,8 +297,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+# display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+# display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -272,10 +306,10 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Yang
+  first_name: [Hunmin]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
@@ -294,34 +328,34 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  # group_by: year
+  # group_order: descending
 
 # Display different badges withs stats for your publications
-enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+# enable_publication_badges:
+  # altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  # dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+# filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 3  # leave blank to always show all authors
-more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
+# max_author_limit: 3  # leave blank to always show all authors
+# more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+# enable_publication_thumbnails: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
 # -----------------------------------------------------------------------------
 
 # These are the defaults
-external_links:
-  enabled: true
-  rel: external nofollow noopener
-  target: _blank
-  exclude:
+# external_links:
+#   enabled: true
+#   rel: external nofollow noopener
+#   target: _blank
+#   exclude:
 
 
 # -----------------------------------------------------------------------------
@@ -342,7 +376,8 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-resize 800x"
+    webp: "-quality 75%"
+    # webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
