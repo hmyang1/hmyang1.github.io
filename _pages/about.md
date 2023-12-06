@@ -1,21 +1,19 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
 profile:
   align: right
   image: HunminYang.jpeg
-  image_circular: true # crops the image to make it circular
-
+  image_circular: True # crops the image to make it circular
 
 news: true  # includes a list of news items
 education: true # includes a list of education items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 services: true
 honors: true
-social: true  # includes social icons at the bottom of the page
 
 # news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
@@ -24,8 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 
 ---
-I am a PhD candidate at [KAIST](https://www.kaist.ac.kr). I am a member of the [Visual Intelligence Lab](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/). 
-Concurrently, I work as an AI researcher at [ADD](https://www.add.re.kr).\
+I am a PhD candidate at [KAIST](https://www.kaist.ac.kr/en/). I am a member of the [Visual Intelligence Lab](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/). 
+Concurrently, I work as an AI researcher at [ADD](https://www.add.re.kr/eps).\
 \
 My research interests lie in computer vision and deep learning. I've worked on robust model training, domain generalization/adaptation, and adversarial robustness.
 
