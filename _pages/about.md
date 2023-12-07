@@ -23,7 +23,7 @@ Additionally, I am engaged as an AI researcher at [ADD](https://www.add.re.kr/ep
 My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
 My major interests currently lie in robust model training, domain generalization/adaptation, and adversarial robustness.
-* Keywords: Computer Vision, Machine Learning, Trustworthy AI
+- Keywords: Computer Vision, Machine Learning, Trustworthy AI
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
