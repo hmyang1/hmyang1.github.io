@@ -167,29 +167,29 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-    limit: 5
+    # limit: 5
   education:
     defaults:
       layout: post
     output: true
     permalink: /education/:path/
-    limit: 5
+    # limit: 5
   projects:
     output: true
     permalink: /projects/:path/
-    limit: 5
+    # limit: 5
   services:
     defaults:
       layout: post
     output: true
     permalink: /services/:path/
-    limit: 5
+    # limit: 5
   honors:
     defaults:
       layout: post
     output: true
     permalink: /honors/:path/
-    limit: 5
+    # limit: 5
 
 # collections:
 #   news:
