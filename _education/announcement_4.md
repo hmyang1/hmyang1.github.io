@@ -5,5 +5,6 @@ inline: true
 ---
 
 [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr), Daejeon, South Korea \
-Ph.D. on Computer Vision & Machine Learning \
-Advisor: Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
+Ph.D. in Mechanical Engineering \
+Research Area: Computer Vision & Machine Learning \
+Advisor: Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/)
