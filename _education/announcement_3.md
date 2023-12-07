@@ -5,6 +5,6 @@ inline: true
 ---
 
 [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr), Daejeon, South Korea \
-M.S. in Mechanical Engineering
+MS in Mechanical Engineering
 - Research Area: 3D Sound Perception
 - Advisor: Prof. [Youngjin Park](https://scholar.google.co.kr/citations?user=AqBRv60AAAAJ&hl=ko)

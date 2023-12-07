@@ -5,4 +5,4 @@ inline: true
 ---
 
 [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr), Daejeon, South Korea \
-B.S in Mechanical Engineering
+BS in Mechanical Engineering
