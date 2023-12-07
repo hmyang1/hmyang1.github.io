@@ -25,11 +25,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am currently pursuing a Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) and a member of  [Visual Intelligence Lab](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
 Additionally, I am engaged as an AI researcher at [ADD](https://www.add.re.kr/eps).
-\\
+
 My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
 My major interests currently lie in robust model training, domain generalization/adaptation, and adversarial robustness.
-The applications are mostly on visual recognition tasks such as image classification, object detection, and segmentation.
 * Keywords: Computer Vision, Machine Learning, Trustworthy AI
 
 
