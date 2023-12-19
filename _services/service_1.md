@@ -7,3 +7,7 @@ inline: true
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023, 2024
 - IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023
 
+**Technology Transfer**
+- Synthetic Data Generation Techniques for Training DL models ([Xiilab](https://xiilab.com/)), 2020, 2021, 2022, 2023
+- Camouflage Pattern Generation Techniques for Attacking DL models ([SmartM2M](https://www.smartm2m.co.kr/)), 2022
+- Big Data Platform Techniques for Real-time Video Recognition ([Xiilab](https://xiilab.com/)), 2019
