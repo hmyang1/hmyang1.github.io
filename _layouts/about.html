@@ -50,7 +50,12 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
-              
+          
+          {% if page.experience -%}
+          <!-- Experience -->
+          {%- include experience.html %}
+          {%- endif %}
+
           {% if page.education -%}
           <!-- Education -->
           {%- include education.html %}
