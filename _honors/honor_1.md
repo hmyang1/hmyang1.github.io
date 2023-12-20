@@ -7,8 +7,8 @@ inline: true
   - Synthetic Data Generation for Defense AI
 - **Defense Science Award**, [ADD](https://www.add.re.kr/eps), 2019
   - Improving Distributed Multi-GPU Computing for Large-scale Intelligent Video Analytics
-- **Achievement Award**, [ADD](https://www.add.re.kr/eps), 2018
-  - Big Data Platform Development
+- **High Achievement Award**, [ADD](https://www.add.re.kr/eps), 2018
+  - Big Data Platform Development and Synthetic Data Generation
 - **Excellent Paper Award**, [KSNVE](https://www.ksnve.or.kr/english), 2013
   - Sweet Spot Analysis of Linear Array System with a Large Number of Loudspeakers by Geometrical Approach Method
   
