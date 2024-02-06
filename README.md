@@ -1,3 +1,3 @@
-# Hunmin Yang's Homepage
+# Hunmin Yang's website
 
-This repository contains the source code for [my homepage](https://hmyang1.github.io)
+This repository contains the source code for [my website](https://hmyang1.github.io)
