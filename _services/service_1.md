@@ -3,7 +3,7 @@ layout: post
 inline: true
 ---
 
-**Reviewer**
+**Academic Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023, 2024
 - IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023
 - European Conference on Computer Vision (**ECCV**), 2024
