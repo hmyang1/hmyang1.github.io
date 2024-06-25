@@ -16,7 +16,6 @@
 @inproceedings{Yang_2024_AAAI,
   author    = {Hunmin Yang* and Jongoh Jeong* and Kuk-Jin Yoon},
   title     = {FACL-Attack: Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks},
-  abstract  = {Deep neural networks are known to be vulnerable to security risks due to the inherent transferable nature of adversarial examples. Despite the success of recent generative model-based attacks demonstrating strong transferability, it still remains a challenge to design an efficient attack strategy in a real-world strict black-box setting, where both the target domain and model architectures are unknown. In this paper, we seek to explore a feature contrastive approach in the frequency domain to generate adversarial examples that are robust in both cross-domain and cross-model settings. With that goal in mind, we propose two modules that are only employed during the training phase: a Frequency-Aware Domain Randomization (FADR) module to randomize domain-variant low- and high-range frequency components and a Frequency-Augmented Contrastive Learning (FACL) module to effectively separate domain-invariant mid-frequency features of clean and perturbed image. We demonstrate strong transferability of our generated adversarial perturbations through extensive cross-domain and cross-model experiments, while keeping the inference time complexity.},
   booktitle = aaai,
   year      = {2024},
   abbr={AAAI},
@@ -29,7 +28,6 @@
 
 @InProceedings{Cho_2023_ICCV,
   author    = {Junhyeong Cho and Gilhyun Nam and Sungyeon Kim and Hunmin Yang and Suha Kwak},
-  abstract  = {In a joint vision-language space, a text feature (e.g., from "a photo of a dog") could effectively represent its relevant image features (e.g., from dog photos). Also, a recent study has demonstrated the cross-modal transferability phenomenon of this joint space. From these observations, we propose PromptStyler which simulates various distribution shifts in the joint space by synthesizing diverse styles via prompts without using any images to deal with source-free domain generalization. The proposed method learns to generate a variety of style features (from "a S* style of a") via learnable style word vectors for pseudo-words S*. To ensure that learned styles do not distort content information, we force style-content features (from "a S* style of a [class]") to be located nearby their corresponding content features (from "[class]") in the joint vision-language space. After learning style word vectors, we train a linear classifier using synthesized style-content features. PromptStyler achieves the state of the art on PACS, VLCS, OfficeHome and DomainNet, even though it does not require any images for training.},
   title     = {PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization},
   booktitle = iccv,
   year      = {2023},
@@ -42,7 +40,6 @@
 
 @InProceedings{Suryanto_2023_ICCV,
   author    = {Naufal Suryanto and Yongsu Kim and Harashta Tatimma Larasati and Hyoeun Kang and Thi-Thu-Huong Le and Yoonyoung Hong and Hunmin Yang and Se-Yoon Oh and Howon Kim},
-  abstract  = {Adversarial camouflage has garnered attention for its ability to attack object detectors from any viewpoint by covering the entire object's surface. However, universality and robustness in existing methods often fall short as the transferability aspect is often overlooked, thus restricting their application only to a specific target with limited performance. To address these challenges, we present Adversarial Camouflage for Transferable and Intensive Vehicle Evasion (ACTIVE), a state-of-the-art physical camouflage attack framework designed to generate universal and robust adversarial camouflage capable of concealing any 3D vehicle from detectors. Our framework incorporates innovative techniques to enhance universality and robustness, including a refined texture rendering that enables common texture application to different vehicles without being constrained to a specific texture map, a novel stealth loss that renders the vehicle undetectable, and a smooth and camouflage loss to enhance the naturalness of the adversarial camouflage. Our extensive experiments on 15 different models show that ACTIVE consistently outperforms existing works on various public detectors, including the latest YOLOv7. Notably, our universality evaluations reveal promising transferability to other vehicle classes, tasks (segmentation models), and the real world, not just other vehicles.},
   title     = {ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion},
   booktitle = iccv,
   year      = {2023},
@@ -55,7 +52,6 @@
 
 @InProceedings{Suryanto_2022_CVPR,
   author    = {Naufal Suryanto and Yongsu Kim and Hyoeun Kang and Harashta Tatimma Larasati and Youngyeo Yun and Thi-Thu-Huong Le and Hunmin Yang and Se-Yoon Oh and Howon Kim},
-  abstract  = {To perform adversarial attacks in the physical world, many studies have proposed adversarial camouflage, a method to hide a target object by applying camouflage patterns on 3D object surfaces. For obtaining optimal physical adversarial camouflage, previous studies have utilized the so-called neural renderer, as it supports differentiability. However, existing neural renderers cannot fully represent various real-world transformations due to a lack of control of scene parameters compared to the legacy photo-realistic renderers. In this paper, we propose the Differentiable Transformation Attack (DTA), a framework for generating a robust physical adversarial pattern on a target object to camouflage it against object detection models with a wide range of transformations. It utilizes our novel Differentiable Transformation Network (DTN), which learns the expected transformation of a rendered object when the texture is changed while preserving the original properties of the target object. Using our attack framework, an adversary can gain both the advantages of the legacy photo-realistic renderers including various physical-world transformations and the benefit of white-box access by offering differentiability. Our experiments show that our camouflaged 3D vehicles can successfully evade state-of-the-art object detection models in the photo-realistic environment (i.e., CARLA on Unreal Engine). Furthermore, our demonstration on a scaled Tesla Model 3 proves the applicability and transferability of our method to the real world.},
   title     = {DTA: Physical Camouflage Attacks Using Differentiable Transformation Network},
   booktitle = cvpr,
   year      = {2022},
@@ -88,7 +84,7 @@
   year      = {2020},
   abbr={GTC},
   selected={false},
-  website={https://www.nvidia.com/gtc/poster-gallery/},
+  poster={https://www.nvidia.com/gtc/poster-gallery/},
   img_path={assets/img/gtc2020.jpg},
 }
 
@@ -111,7 +107,7 @@
   year      = {2019},
   abbr={GTC},
   selected={false},
-  website={https://www.nvidia.com/gtc/poster-gallery/},
+  poster={https://www.nvidia.com/gtc/poster-gallery/},
   img_path={assets/img/gtc2019_scalable.png},
 }
 
@@ -122,7 +118,7 @@
   year      = {2019},
   abbr={GTC},
   selected={false},
-  website={https://www.nvidia.com/gtc/poster-gallery/},
+  poster={https://www.nvidia.com/gtc/poster-gallery/},
   img_path={assets/img/gtc2019_optimal.png},
 }
 
@@ -135,7 +131,7 @@
   year      = {2023},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10316980},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10316980},
   img_path={assets/img/iccas2023.png},
 }
 
@@ -146,7 +142,7 @@
   year      = {2021},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9650004},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9650004},
   img_path={assets/img/iccas2021.png},
 }
 
@@ -157,7 +153,7 @@
   year      = {2020},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268430},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268430},
   img_path={assets/img/iccas2020_training.png},
 }
 
@@ -168,7 +164,7 @@
   year      = {2020},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268390},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268390},
   img_path={assets/img/iccas2020_improving.png},
 }
 
@@ -179,7 +175,7 @@
   year      = {2020},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268406},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268406},
   img_path={assets/img/iccas2020_adversarial.png},
 }
 
@@ -190,7 +186,7 @@
   year      = {2020},
   abbr={ICCAS},
   selected={false},
-  website={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268331},
+  paper={https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268331},
   img_path={assets/img/iccas2020_applying.png},
 }
 
