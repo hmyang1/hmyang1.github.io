@@ -732,7 +732,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           margin-left: 0;
-          margin-right: 1rem;
+          margin-right: 0.5rem;
 
           &:hover {
             color: var(--global-theme-color);
@@ -1061,5 +1061,5 @@ nav[data-toggle="toc"] {
 }
 
 .my-name-large {
-  font-size: 50rem;
+  font-size: 20rem;
 }
