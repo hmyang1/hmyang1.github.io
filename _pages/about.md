@@ -24,7 +24,8 @@ Concurrently, I'm a PhD candidate at [KAIST](https://www.kaist.ac.kr/en/) and a 
 <!-- My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
 My major interests currently lie in robust model training, domain generalization/adaptation, and adversarial robustness. -->
-The goal of my research is to develop safe and reliable visual intelligence to enable safe model deployment in real-world applications. To achieve this, I work at the intersection of machine learning and computer vision.
+The goal of my research is to develop trustworthy visual intelligence to enable safe and reliable model deployment in real-world applications.
+To achieve this, I work at the intersection of machine learning and computer vision.
 My current interests lie in representation learning, domain generalization, and adversarial robustness.
 - Keywords: Machine Learning, Computer Vision, Trustworthy AI
 
