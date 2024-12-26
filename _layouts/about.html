@@ -66,15 +66,17 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
           
+          {% if page.honors -%}
+          <!-- Honors -->
+          {%- include honors.html %}
+          {%- endif %}
+
           {% if page.services -%}
           <!-- Services -->
           {%- include services.html %}
           {%- endif %}
           
-          {% if page.honors -%}
-          <!-- Services -->
-          {%- include honors.html %}
-          {%- endif %}
+          
               
 
         </article>

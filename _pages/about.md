@@ -13,18 +13,20 @@ news: true  # includes a list of news items
 experience: true # includes a list of experience items
 education: true # includes a list of education items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-services: true
 honors: true
+services: true
 social: true  # includes social icons at the bottom of the page
 ---
 
 I work as a senior AI researcher at [ADD](https://www.add.re.kr/eps).
 Concurrently, I'm a PhD candidate at [KAIST](https://www.kaist.ac.kr/en/) and a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
 
-My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
+<!-- My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
-My major interests currently lie in robust model training, domain generalization/adaptation, and adversarial robustness.
-- Keywords: Computer Vision, Machine Learning, Trustworthy AI
+My major interests currently lie in robust model training, domain generalization/adaptation, and adversarial robustness. -->
+The goal of my research is to develop safe and reliable visual intelligence to enable safe model deployment in real-world applications. To achieve this, I work at the intersection of machine learning and computer vision.
+My current interests lie in representation learning, domain generalization, and adversarial robustness.
+- Keywords: Machine Learning, Computer Vision, Trustworthy AI
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
