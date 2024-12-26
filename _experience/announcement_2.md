@@ -5,4 +5,4 @@ inline: true
 ---
 [Agency For Defense Development (ADD)](https://www.add.re.kr/eps), Daejeon, South Korea \
 AI Researcher
-- **D-NET**: Large-scale AI inference platform with Hadoop-Spark
+- Large-scale AI inference platform with Hadoop-Spark
