@@ -7,4 +7,4 @@ inline: true
 [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/), Daejeon, South Korea \
 PhD in Mechanical Engineering
 - Research Area: Adversarial Machine Learning
-- Advisor: Prof. [Kuk-Jin Yoon](https://vi.kaist.ac.kr/people/)
+- Advisor: Kuk-Jin Yoon
