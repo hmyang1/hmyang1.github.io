@@ -28,8 +28,11 @@ My major interests currently lie in robust model training, domain generalization
 To achieve this, I work at the intersection of machine learning and computer vision.
 My current interests lie in representation learning, domain generalization, and adversarial robustness.
 - Keywords: Machine Learning, Computer Vision, Trustworthy AI -->
-I am broadly interested in the security and safety aspects of machine learning, with a recent focus on multimodal LLMs.
-My past work primarily focuses on adversarial machine learning, specifically leveraging generative models for transferable adversarial attacks.
+<!-- I am broadly interested in the security and safety aspects of machine learning, with a recent focus on multimodal LLMs.
+My past work primarily focuses on adversarial machine learning, specifically leveraging generative models for transferable adversarial attacks. -->
+I am broadly interested in the security and safety of machine learning, with a recent focus on multi-modal large language models (LLMs).
+My previous work includes leveraging generative models for transferable adversarial attacks and building robust AI systems that can operate reliably in diverse environments. 
+I hope to continue making a positive impact on society by enhancing the safety and trustworthiness of AI.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
