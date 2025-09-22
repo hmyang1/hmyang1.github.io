@@ -3,6 +3,8 @@ layout: post
 inline: true
 ---
 
+- **Defense Science Award**, [ADD](https://www.add.re.kr/eps), 2025
+  - Adversarial Attack Countermeasures for Robust AI-based Image Analysis Systems
 - **Selected as Oral Presentation (top 2.3%)**, [ECCV](https://eccv2024.ecva.net/), 2024
   - Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks
 - **National Grant for Defense Research and Development**, [DAPA](https://www.dapa.go.kr/dapa_en/main.do), 2021
