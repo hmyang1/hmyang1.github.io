@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I work as a senior AI researcher at [ADD](https://www.add.re.kr/eps).
-Concurrently, I'm a PhD candidate at [KAIST](https://www.kaist.ac.kr/en/) and a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
+I was a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
+I am open to new positions and collaborations, so please feel free to contact me.
 
 <!-- My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
