@@ -33,7 +33,7 @@ My current interests lie in representation learning, domain generalization, and 
 My past work primarily focuses on adversarial machine learning, specifically leveraging generative models for transferable adversarial attacks. -->
 My research interests broadly lie in machine learning and computer vision, with a recent focus on generative AI, particularly multimodal large language models (LLMs) and diffusion models.
 My previous work includes leveraging generative models for transferable adversarial attacks and building robust AI systems that can operate reliably in diverse environments. 
-I hope to continue making a positive impact on society by enhancing the safety and trustworthiness of AI.
+I hope to continue making a positive impact on society by enhancing the trustworthiness of AI.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
