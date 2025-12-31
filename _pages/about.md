@@ -31,7 +31,7 @@ My current interests lie in representation learning, domain generalization, and 
 - Keywords: Machine Learning, Computer Vision, Trustworthy AI -->
 <!-- I am broadly interested in the security and safety aspects of machine learning, with a recent focus on multimodal LLMs.
 My past work primarily focuses on adversarial machine learning, specifically leveraging generative models for transferable adversarial attacks. -->
-I am broadly interested in machine learning and computer vision, with a recent focus on the security and safety of multi-modal large language models (LLMs).
+My research interests broadly lie in machine learning and computer vision, with a recent focus on generative AI, particularly multimodal large language models (LLMs) and diffusion models.
 My previous work includes leveraging generative models for transferable adversarial attacks and building robust AI systems that can operate reliably in diverse environments. 
 I hope to continue making a positive impact on society by enhancing the safety and trustworthiness of AI.
 
