@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I work as a senior AI researcher at [ADD](https://www.add.re.kr/eps).
-I was a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
-I am open to new positions and collaborations, so please feel free to contact me.
+I was a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/) in [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
+I am open to new positions and collaborations, so please feel free to contact me! 🙂
 
 <!-- My research aims to develop trustworthy visual intelligence which assists decision-making processes regarding real-world problems.
 To do this, I research in the interdisciplinary fields of computer vision and machine learning.
@@ -31,7 +31,7 @@ My current interests lie in representation learning, domain generalization, and 
 - Keywords: Machine Learning, Computer Vision, Trustworthy AI -->
 <!-- I am broadly interested in the security and safety aspects of machine learning, with a recent focus on multimodal LLMs.
 My past work primarily focuses on adversarial machine learning, specifically leveraging generative models for transferable adversarial attacks. -->
-I am broadly interested in the security and safety of machine learning, with a recent focus on multi-modal large language models (LLMs).
+I am broadly interested in machine learning and computer vision, with a recent focus on the security and safety of multi-modal large language models (LLMs).
 My previous work includes leveraging generative models for transferable adversarial attacks and building robust AI systems that can operate reliably in diverse environments. 
 I hope to continue making a positive impact on society by enhancing the safety and trustworthiness of AI.
 
