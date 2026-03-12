@@ -9,6 +9,7 @@ inline: true
 - European Conference on Computer Vision (**ECCV**)
 - Advances in Neural Information Processing Systems (**NeurIPS**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
+- ACM Multimedia Conference (**MM**)
 
 
 **Technology Transfer**
