@@ -3,14 +3,18 @@ layout: post
 inline: true
 ---
 
-**Academic Reviewer**
+**Conference Reviewer**
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)
 - IEEE/CVF International Conference on Computer Vision (**ICCV**)
 - European Conference on Computer Vision (**ECCV**)
 - Advances in Neural Information Processing Systems (**NeurIPS**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - ACM Multimedia Conference (**MM**)
+- Association for Computational Linguistics (**ACL**)
 
+**Journal Reviewer**
+- International Journal of Computer Vision (**IJCV**)
+-  IEEE Transactions on Dependable and Secure Computing (**TDSC**)
 
 **Technology Transfer**
 - Adversarial Attack and Defense on AI models ([SmartM2M](https://www.smartm2m.co.kr/))
