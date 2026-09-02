@@ -18,6 +18,7 @@ services: true
 social: true  # includes social icons at the bottom of the page
 ---
 
+Update
 I work as a senior AI researcher at [ADD](https://www.add.re.kr/eps).
 I was a member of  [Visual Intelligence Lab.](https://vi.kaist.ac.kr/) in [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Kuk-Jin Yoon](https://sites.google.com/site/kjyoon/).
 I am open to new positions and collaborations, so please feel free to contact me! 🙂
