@@ -1,6 +1,6 @@
 ---
 layout: post
-start_end: "Jan, 2020 - Present"
+start_end: "Jan, 2020 - Aug, 2026"
 inline: true
 ---
 
