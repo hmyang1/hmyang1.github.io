@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the Department of AI Cyber Security, at [Korea University Sejong Campus](https://sejongnews.korea.ac.kr/sites/eng/index..do). I lead the group on Trustworthy Multimodal AI (TMAI). I am broadly interested in machine learning and computer vision, with a recent focus on security and safety aspects of Generative AI, Physical AI, and Agentic AI. The goal of my research is to develop trustworthy multimodal intelligence to enable safe and reliable model deployment in real-world applications. To achieve this, I work at the intersection of AI and security. I hope to continue making a positive impact on society by enhancing the trustworthiness of AI.
 
-Previously, I was a AI researcher at [ADD](https://www.add.re.kr/eps). I received my PhD in adversarial machine learning at [KAIST](https://www.kaist.ac.kr/en/) in 2026, under the supervision of [Kuk-Jin Yoon](https://vi.kaist.ac.kr/pages/faculty/). My PhD thesis focused on the security implications of deep vision models. I received BS and MS also from [KAIST](https://www.kaist.ac.kr/en/) in 2012 and 2014.
+Previously, I was an AI researcher at [ADD](https://www.add.re.kr/eps). I received PhD in adversarial machine learning at [KAIST](https://www.kaist.ac.kr/en/) in 2026, under the supervision of [Kuk-Jin Yoon](https://vi.kaist.ac.kr/pages/faculty/). My PhD thesis focused on the security implications of deep vision models. I received BS and MS from [KAIST](https://www.kaist.ac.kr/en/) in 2012 and 2014.
 
 I am open to new collaborations, so please feel free to contact me! 🙂
 
